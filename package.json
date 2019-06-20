@@ -1,5 +1,6 @@
 {
   "name": "vue-cli",
+  "version": "3.8.4-custompatch",
   "private": true,
   "workspaces": [
     "packages/@vue/*",
